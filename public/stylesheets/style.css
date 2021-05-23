@@ -235,13 +235,3 @@ h2, h4, h5, .h2, .h4, .h5 {
 	font-size: 15px;
 }
 
-a {
-	color: #ffffff;
-	text-decoration: none;
-}
-
-a:hover, a:focus {
-	color: #ffffff;
-	text-decoration: underline;
-}
-
